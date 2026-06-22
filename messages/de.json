@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Start",
+    "menu": "Speisekarte",
+    "gallery": "Galerie",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "reserve": "Reservieren"
+  },
+  "hero": {
+    "tagline": "Restaurant · Pizzeria · Cocktail Bar",
+    "cta_menu": "Speisekarte erkunden",
+    "cta_reserve": "Tisch reservieren",
+    "scroll": "Mehr entdecken"
+  },
+  "stats": {
+    "years": "Jahre Leidenschaft",
+    "dishes": "Handwerkliche Rezepte",
+    "cocktails": "Exklusive Cocktails",
+    "guests": "Zufriedene Gäste"
+  },
+  "opening": {
+    "title": "Öffnungszeiten",
+    "mon_fri": "Montag – Freitag",
+    "sat": "Samstag",
+    "sun": "Sonntag",
+    "kitchen_close": "Küche geöffnet bis",
+    "closed": "Geschlossen"
+  },
+  "menu": {
+    "title": "Unsere Speisekarte",
+    "subtitle": "Ausgewählte Zutaten, authentische Rezepte",
+    "search": "Speisekarte durchsuchen...",
+    "new": "Neu",
+    "signature": "Signatur",
+    "vegetarian": "Vegetarisch",
+    "vegan": "Vegan",
+    "glutenfree": "Glutenfrei",
+    "spicy": "Scharf",
+    "no_results": "Keine Ergebnisse gefunden",
+    "qr_title": "QR-Menü",
+    "qr_subtitle": "Scannen Sie für das digitale Menü"
+  },
+  "gallery": {
+    "title": "Unsere Galerie",
+    "subtitle": "Unvergessliche Momente im Wunderbar",
+    "all": "Alle",
+    "food": "Küche",
+    "drinks": "Cocktails",
+    "ambience": "Atmosphäre",
+    "events": "Events"
+  },
+  "about": {
+    "title": "Unsere Geschichte",
+    "subtitle": "Leidenschaft, Qualität und italienische Gastfreundschaft",
+    "story_title": "Aus Leidenschaft geboren",
+    "story_body": "Das Wunderbar entstand aus der Liebe zur italienischen Tradition, neu interpretiert mit modernem und zeitgenössischem Stil. Jedes Gericht, jeder Cocktail erzählt eine Geschichte.",
+    "philosophy_title": "Unsere Philosophie",
+    "philosophy_body": "Wir verwenden nur hochwertigste Zutaten von lokalen Produzenten und italienischen Handwerkern. Der Respekt vor dem Rohstoff ist die Grundlage jeder unserer Kreationen.",
+    "team_title": "Unser Team"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "whatsapp": "WhatsApp",
+    "social": "Social Media",
+    "directions": "Wegbeschreibung"
+  },
+  "reservation": {
+    "title": "Tisch reservieren",
+    "subtitle": "Reservieren Sie Ihren perfekten Moment",
+    "name": "Vor- und Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "date": "Datum",
+    "time": "Uhrzeit",
+    "guests": "Anzahl Gäste",
+    "message": "Hinweise oder Sonderwünsche",
+    "submit": "Reservierung bestätigen",
+    "whatsapp": "Via WhatsApp reservieren",
+    "success": "Reservierung gesendet! Wir melden uns bald.",
+    "error": "Sendefehler. Bitte erneut versuchen oder über WhatsApp kontaktieren.",
+    "required": "Pflichtfeld"
+  },
+  "footer": {
+    "tagline": "Wo Tradition auf Innovation trifft",
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutzerklärung",
+    "cookies": "Cookie-Richtlinie"
+  }
+}

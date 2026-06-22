@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "gallery": "Galleria",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "reserve": "Prenota"
+  },
+  "hero": {
+    "tagline": "Restaurant · Pizzeria · Cocktail Bar",
+    "cta_menu": "Esplora il Menu",
+    "cta_reserve": "Prenota un Tavolo",
+    "scroll": "Scopri di più"
+  },
+  "stats": {
+    "years": "Anni di Passione",
+    "dishes": "Ricette Artigianali",
+    "cocktails": "Cocktail Esclusivi",
+    "guests": "Ospiti Felici"
+  },
+  "opening": {
+    "title": "Orari di Apertura",
+    "mon_fri": "Lunedì – Venerdì",
+    "sat": "Sabato",
+    "sun": "Domenica",
+    "kitchen_close": "Cucina aperta fino alle",
+    "closed": "Chiuso"
+  },
+  "menu": {
+    "title": "Il Nostro Menu",
+    "subtitle": "Ingredienti scelti, ricette autentiche",
+    "search": "Cerca nel menu...",
+    "new": "Novità",
+    "signature": "Firma",
+    "vegetarian": "Vegetariano",
+    "vegan": "Vegano",
+    "glutenfree": "Senza Glutine",
+    "spicy": "Piccante",
+    "no_results": "Nessun risultato trovato",
+    "qr_title": "Menu QR",
+    "qr_subtitle": "Scansiona per aprire il menu digitale"
+  },
+  "gallery": {
+    "title": "La Nostra Galleria",
+    "subtitle": "Momenti indimenticabili al Wunderbar",
+    "all": "Tutto",
+    "food": "Cucina",
+    "drinks": "Cocktails",
+    "ambience": "Atmosfera",
+    "events": "Eventi"
+  },
+  "about": {
+    "title": "La Nostra Storia",
+    "subtitle": "Passione, qualità e ospitalità italiana",
+    "story_title": "Nati dalla Passione",
+    "story_body": "Wunderbar nasce dall'amore per la tradizione italiana, reinterpretata con uno stile moderno e contemporaneo. Ogni piatto, ogni cocktail racconta una storia di ricerca e dedizione.",
+    "philosophy_title": "La Nostra Filosofia",
+    "philosophy_body": "Utilizziamo solo ingredienti di prima qualità, selezionati da produttori locali e artigiani italiani. Il rispetto per la materia prima è il fondamento di ogni nostra creazione.",
+    "team_title": "Il Nostro Team"
+  },
+  "contact": {
+    "title": "Contatti",
+    "address": "Indirizzo",
+    "phone": "Telefono",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "social": "Social Media",
+    "directions": "Indicazioni Stradali"
+  },
+  "reservation": {
+    "title": "Prenota il Tuo Tavolo",
+    "subtitle": "Riserva il tuo momento perfetto",
+    "name": "Nome e Cognome",
+    "email": "Email",
+    "phone": "Telefono",
+    "date": "Data",
+    "time": "Orario",
+    "guests": "Numero di Ospiti",
+    "message": "Note o Richieste Speciali",
+    "submit": "Conferma Prenotazione",
+    "whatsapp": "Prenota via WhatsApp",
+    "success": "Prenotazione inviata! Ti contatteremo presto.",
+    "error": "Errore nell'invio. Riprova o contattaci via WhatsApp.",
+    "required": "Campo obbligatorio"
+  },
+  "footer": {
+    "tagline": "Dove la tradizione incontra l'innovazione",
+    "rights": "Tutti i diritti riservati",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  }
+}

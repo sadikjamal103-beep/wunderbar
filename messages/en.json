@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "reserve": "Reserve"
+  },
+  "hero": {
+    "tagline": "Restaurant · Pizzeria · Cocktail Bar",
+    "cta_menu": "Explore Menu",
+    "cta_reserve": "Reserve a Table",
+    "scroll": "Discover more"
+  },
+  "stats": {
+    "years": "Years of Passion",
+    "dishes": "Artisan Recipes",
+    "cocktails": "Exclusive Cocktails",
+    "guests": "Happy Guests"
+  },
+  "opening": {
+    "title": "Opening Hours",
+    "mon_fri": "Monday – Friday",
+    "sat": "Saturday",
+    "sun": "Sunday",
+    "kitchen_close": "Kitchen open until",
+    "closed": "Closed"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "Selected ingredients, authentic recipes",
+    "search": "Search the menu...",
+    "new": "New",
+    "signature": "Signature",
+    "vegetarian": "Vegetarian",
+    "vegan": "Vegan",
+    "glutenfree": "Gluten Free",
+    "spicy": "Spicy",
+    "no_results": "No results found",
+    "qr_title": "QR Menu",
+    "qr_subtitle": "Scan to open the digital menu"
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Unforgettable moments at Wunderbar",
+    "all": "All",
+    "food": "Kitchen",
+    "drinks": "Cocktails",
+    "ambience": "Ambience",
+    "events": "Events"
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "Passion, quality and Italian hospitality",
+    "story_title": "Born from Passion",
+    "story_body": "Wunderbar was born from a love of Italian tradition, reinterpreted with a modern and contemporary style. Every dish, every cocktail tells a story of research and dedication.",
+    "philosophy_title": "Our Philosophy",
+    "philosophy_body": "We use only the highest quality ingredients, selected from local producers and Italian artisans. Respect for the raw material is the foundation of every creation.",
+    "team_title": "Our Team"
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "social": "Social Media",
+    "directions": "Get Directions"
+  },
+  "reservation": {
+    "title": "Reserve Your Table",
+    "subtitle": "Reserve your perfect moment",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "date": "Date",
+    "time": "Time",
+    "guests": "Number of Guests",
+    "message": "Notes or Special Requests",
+    "submit": "Confirm Reservation",
+    "whatsapp": "Reserve via WhatsApp",
+    "success": "Reservation sent! We will contact you soon.",
+    "error": "Sending error. Please retry or contact us via WhatsApp.",
+    "required": "Required field"
+  },
+  "footer": {
+    "tagline": "Where tradition meets innovation",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  }
+}
