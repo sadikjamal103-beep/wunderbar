@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  transpilePackages: ['three', '@react-three/fiber', '@react-three/drei'],
+  serverExternalPackages: ['@react-three/fiber', '@react-three/drei', 'three'],
   images: {
     remotePatterns: [
       { protocol: 'https', hostname: 'images.unsplash.com' },
@@ -16,16 +16,6 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'wunderbarweb.it' },
     ],
     loader: 'default',
-  },
-  webpack: (config, { isServer }) => {
-    if (!isServer) {
-      config.resolve.alias = {
-        ...config.resolve.alias,
-        'use-sync-external-store/shim/with-selector':
-          'use-sync-external-store/with-selector',
-      }
-    }
-    return config
   },
 }
 
