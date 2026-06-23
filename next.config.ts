@@ -17,6 +17,16 @@ const nextConfig: NextConfig = {
     ],
     loader: 'default',
   },
+  webpack: (config, { isServer }) => {
+    if (!isServer) {
+      config.resolve.alias = {
+        ...config.resolve.alias,
+        'use-sync-external-store/shim/with-selector':
+          'use-sync-external-store/with-selector',
+      }
+    }
+    return config
+  },
 }
 
 export default withNextIntl(nextConfig)
